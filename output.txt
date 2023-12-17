@@ -1,0 +1,7 @@
+product Description: 'Beyaz Dantel İşlemeli Kız Çocuk Gömlek' - productPrice: 19.450 TL'
+product Description: 'Slim Fit Koyu Mavi Oxford Gömlek' - productPrice: 1.999 TL'
+product Description: 'Desenli Erkek Bebek Poplin Gömlek' - productPrice: 1.900 TL'
+product Description: 'Lacivert Logolu Kız Çocuk Gömlek' - productPrice: 3.799 TL'
+product Description: 'Slim Fit Beyaz Non-iron Stretch Saten Gömlek' - productPrice: 2.199 TL'
+product Description: 'Beyaz Polo Yaka Desenli Erkek Çocuk Gömlek' - productPrice: 699 TL'
+product Description: 'Comfort Fit Beyaz Gömlek' - productPrice: 2.499 TL'
